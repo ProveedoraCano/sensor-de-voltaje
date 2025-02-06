@@ -1,4 +1,4 @@
-# 📊 Proyecto: Medición de Voltaje con Arduino
+# 📊 Proyecto: Medición de Voltaje con Arduino fácil
 
 ## 📝 Descripción
 
